@@ -1,0 +1,10 @@
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.Model\bin\Debug\netstandard2.0\Hello mlML.Model.deps.json
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.Model\bin\Debug\netstandard2.0\Hello mlML.Model.dll
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.Model\bin\Debug\netstandard2.0\Hello mlML.Model.pdb
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.Model\obj\Debug\netstandard2.0\Hello mlML.Model.AssemblyInfoInputs.cache
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.Model\obj\Debug\netstandard2.0\Hello mlML.Model.AssemblyInfo.cs
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.Model\obj\Debug\netstandard2.0\Hello mlML.Model.csproj.CoreCompileInputs.cache
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.Model\obj\Debug\netstandard2.0\Hello mlML.Model.dll
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.Model\obj\Debug\netstandard2.0\Hello mlML.Model.pdb
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.Model\obj\Debug\netstandard2.0\Hello mlML.Model.csprojAssemblyReference.cache

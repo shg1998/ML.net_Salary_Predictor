@@ -1,0 +1,31 @@
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\bin\Debug\netcoreapp3.1\MLModel.zip
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\bin\Debug\netcoreapp3.1\Hello mlML.ConsoleApp.exe
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\bin\Debug\netcoreapp3.1\Hello mlML.ConsoleApp.deps.json
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\bin\Debug\netcoreapp3.1\Hello mlML.ConsoleApp.runtimeconfig.json
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\bin\Debug\netcoreapp3.1\Hello mlML.ConsoleApp.runtimeconfig.dev.json
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\bin\Debug\netcoreapp3.1\Hello mlML.ConsoleApp.dll
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\bin\Debug\netcoreapp3.1\Hello mlML.ConsoleApp.pdb
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\bin\Debug\netcoreapp3.1\Hello mlML.Model.dll
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\bin\Debug\netcoreapp3.1\Hello mlML.Model.pdb
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\obj\Debug\netcoreapp3.1\Hello mlML.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\obj\Debug\netcoreapp3.1\Hello mlML.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\obj\Debug\netcoreapp3.1\Hello mlML.ConsoleApp.AssemblyInfo.cs
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\obj\Debug\netcoreapp3.1\Hello mlML.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\obj\Debug\netcoreapp3.1\Hello mlML.ConsoleApp.csproj.CopyComplete
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\obj\Debug\netcoreapp3.1\Hello mlML.ConsoleApp.dll
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\obj\Debug\netcoreapp3.1\Hello mlML.ConsoleApp.pdb
+C:\Users\m.nezhad\source\repos\Hello ml\Hello mlML.ConsoleApp\obj\Debug\netcoreapp3.1\Hello mlML.ConsoleApp.genruntimeconfig.cache
